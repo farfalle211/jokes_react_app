@@ -8,7 +8,7 @@ function App() {
     <div>
       <Joke 
         delivery = {{
-                    question: "Hello",
+                    question: "Knock knock",
                     punchLine: "This is a joke."
                     }}
       />
